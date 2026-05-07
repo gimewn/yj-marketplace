@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-supabase-toolkit",
+  "version": "1.0.0",
+  "description": "Next.js + Supabase 프로젝트를 위한 코드 리뷰 에이전트 4종 + CRUD 스캐폴딩·문서 작성 스킬 2종",
+  "author": {
+    "name": "Yoonju Kim"
+  },
+  "keywords": ["nextjs", "supabase", "code-review", "scaffold", "docs", "korean"]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "yj-marketplace",
+  "version": "1.0.0",
+  "description": "Next.js + Supabase 개발 생산성 도구 모음. 코드 리뷰 에이전트, CRUD 스캐폴딩, 문서 자동 작성 스킬을 제공한다.",
+  "owner": {
+    "name": "Yoonju Kim"
+  },
+  "plugins": [
+    {
+      "name": "nextjs-supabase-toolkit",
+      "description": "Next.js + Supabase 프로젝트를 위한 코드 리뷰 에이전트 4종(종합·보안·성능·테스트)과 CRUD 스캐폴딩·문서 작성 스킬 2종",
+      "version": "1.0.0",
+      "author": {
+        "name": "Yoonju Kim"
+      },
+      "source": "./plugins/nextjs-supabase-toolkit",
+      "category": "development"
+    }
+  ]
+}
