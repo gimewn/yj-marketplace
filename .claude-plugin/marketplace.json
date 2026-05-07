@@ -14,7 +14,12 @@
       "author": {
         "name": "Yoonju Kim"
       },
-      "source": "./plugins/nextjs-supabase-toolkit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/gimewn/yj-marketplace.git",
+        "path": "plugins/nextjs-supabase-toolkit",
+        "ref": "master"
+      },
       "category": "development"
     }
   ]
